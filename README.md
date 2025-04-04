@@ -15,6 +15,8 @@ I mostly did mods for it:
 |[Progressively Harder](https://github.com/WarperSan/Progressively-Harder)|Progressively makes the game harder and harder by limiting the available units and upgrades|
 |[Boss Pack](https://github.com/WarperSan/BossPack)|Adds multiple custom bosses to the game|
 |[Boss Integration](https://github.com/WarperSan/BossIntegration)|Adds an API to allow any other mod to add bosses without worrying about the implementation itself|
+|[Jewels](https://github.com/WarperSan/Jewels-BTD6)|Adds a basic version of *Jewel*|
+|[BTD Adventure](https://github.com/WarperSan/BTD-Adventure)|Recreates the game *Rogue Adventure* inside the game with custom APIs and game logic|
 
 <!--
 **WarperSan/warpersan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
