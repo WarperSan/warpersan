@@ -1,3 +1,12 @@
+## Table of Contents
+- [Projects](#projects)
+  - [BTD6](#monkey_face-bloons-tower-defense-6-balloon)
+  - [Lethal Company](#ship-lethal-company-money_with_wings) 
+  - [The Farmer Was Replaced](#herb-the-farmer-was-replaced-satellite)
+  - [Games](#video-game-games-trophy)
+  - [School](#school-school-paperclip)
+- [Accounts](#accounts)
+
 ## Projects
 Here is a tour of all my projects:
 
@@ -28,6 +37,10 @@ Here is a tour of all my projects:
 |----|-----------|
 |[Farm Helper](https://github.com/WarperSan/FarmHelper-TFWR)|Offers an advanced API to be able to add certain mechanics easily|
 |[Copy Code](https://github.com/WarperSan/CopyCodePlugin-TFWR)|Allows to easy copy the code from a window from Discord|
+
+### :video_game: Games :trophy:
+
+### :school: School :paperclip:
 
 ## Accounts
 You can find me here:
