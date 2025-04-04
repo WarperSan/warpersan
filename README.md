@@ -21,6 +21,7 @@ Here is a tour of all my projects:
 |[Progressively Harder](https://github.com/WarperSan/Progressively-Harder)|Progressively makes the game harder and harder by limiting the available units and upgrades|
 |[Boss Pack](https://github.com/WarperSan/BossPack)|Adds multiple custom bosses to the game|
 |[Boss Integration](https://github.com/WarperSan/BossIntegration)|Adds an API to allow any other mod to add bosses without worrying about the implementation itself|
+|[Boss Pack Reborn](https://github.com/WarperSan/BossPackReborn)|Updated *Boss Pack* to use the new library|
 |[Jewels](https://github.com/WarperSan/Jewels-BTD6)|Adds a basic version of *Jewel*|
 |[BTD Adventure](https://github.com/WarperSan/BTD-Adventure)|Recreates the game *Rogue Adventure* inside the game with custom APIs and game logic|
 
