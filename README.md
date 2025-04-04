@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Projects
 Here is a tour of all my projects:
 
@@ -24,6 +22,12 @@ Here is a tour of all my projects:
 |[Ship Inventory](https://github.com/WarperSan/ShipInventory)|Adds a furniture to more efficiently store scraps in the ship|
 |[Lethal Bingo](https://github.com/WarperSan/LethalBingo)|Adds an implementation of *BingoSync* inside the game|
 
+### :herb: The Farmer Was Replaced :satellite:
+
+|Name|Description|
+|----|-----------|
+|[Farm Helper](https://github.com/WarperSan/FarmHelper-TFWR)|Offers an advanced API to be able to add certain mechanics easily|
+|[Copy Code](https://github.com/WarperSan/CopyCodePlugin-TFWR)|Allows to easy copy the code from a window from Discord|
 
 <!--
 **WarperSan/warpersan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
