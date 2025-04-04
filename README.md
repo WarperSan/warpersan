@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+## Projects
+Here is a tour of all my projects:
+
+### :monkey_face: Bloons Tower Defense 6 :balloon:
+I mostly did mods for it:
+
+|Name|Small Description|
+|----|-----------------|
+|[Balanced Random Rounds](https://github.com/WarperSan/BTD6-Mods/tree/master/Balanced%20Random%20Rounds)|Randomizes the rounds in a balanced way|
+|[Unbalanced Random Rounds](https://github.com/WarperSan/BTD6-Mods/tree/master/Unbalanced%20Random%20Rounds)|Randomizes the rounds in an unbalanced way|
+|[Monkey Sub Paragon](https://github.com/WarperSan/BTD6-Mods/tree/master/MonkeySub%20Paragon)|Adds a paragon to the Monkey Submarine unit|
+|[Village Paragon](https://github.com/WarperSan/BTD6-Mods/tree/master/VillageParagon)|Adds a paragon to the Monkey Village unit|
+|[Progressively Harder](https://github.com/WarperSan/Progressively-Harder)|Progressively makes the game harder and harder by limiting the available units and upgrades|
+|[Boss Pack](https://github.com/WarperSan/BossPack)|Adds multiple custom bosses to the game|
+|[Boss Integration](https://github.com/WarperSan/BossIntegration)|Adds an API to allow any other mod to add bosses without worrying about the implementation itself|
+
 <!--
 **WarperSan/warpersan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
