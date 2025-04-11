@@ -40,6 +40,9 @@ Here is a tour of all my projects:
 |[Copy Code](https://github.com/WarperSan/CopyCodePlugin-TFWR)|Allows to easy copy the code from a window from Discord|
 
 ### :video_game: Games :trophy:
+|Name|Description|
+|----|-----------|
+|[Shadow Spire](https://github.com/WarperSan/Shadow-Spire)|Small tile-based RogueLike made in Unity|
 
 ### :school: School :paperclip:
 
