@@ -44,8 +44,12 @@ Here is a tour of all my projects:
 |----|-----------|
 |[Shadow Spire](https://github.com/WarperSan/Shadow-Spire)|Small tile-based RogueLike made in Unity|
 |[Boulder Dash](https://github.com/WarperSanPlus/Boulder-Dash)|Small copy of the game Boulder Dash|
+|[Procedural Snake](https://github.com/WarperSanPlus/Snake-Procedural)|Snake game with procedural generation of the walls|
 
 ### :school: School :paperclip:
+|Name|Description|
+|----|-----------|
+|[Zelda Project](https://github.com/WarperSanPlus/Zelda-Project)|Made a small zelda clone|
 
 ## Accounts
 You can find me here:
