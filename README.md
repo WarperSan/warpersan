@@ -43,6 +43,7 @@ Here is a tour of all my projects:
 |Name|Description|
 |----|-----------|
 |[Shadow Spire](https://github.com/WarperSan/Shadow-Spire)|Small tile-based RogueLike made in Unity|
+|[Boulder Dash](https://github.com/WarperSanPlus/Boulder-Dash)|Small copy of the game Boulder Dash|
 
 ### :school: School :paperclip:
 
@@ -50,18 +51,3 @@ Here is a tour of all my projects:
 You can find me here:
 
 - [WarperSanPlus](https://github.com/WarperSanPlus?tab=repositories)
-
-<!--
-**WarperSan/warpersan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
