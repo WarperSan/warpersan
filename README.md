@@ -45,6 +45,7 @@ Here is a tour of all my projects:
 |[Shadow Spire](https://github.com/WarperSan/Shadow-Spire)|Small tile-based RogueLike made in Unity|
 |[Boulder Dash](https://github.com/WarperSanPlus/Boulder-Dash)|Small copy of the game Boulder Dash|
 |[Procedural Snake](https://github.com/WarperSanPlus/Snake-Procedural)|Snake game with procedural generation of the walls|
+|[Touhou](https://github.com/WarperSanPlus/TP3-SpaceShooter)|Space shooter with a Touhou theme|
 
 ### :school: School :paperclip:
 |Name|Description|
