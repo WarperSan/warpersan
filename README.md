@@ -36,9 +36,9 @@ Here is a tour of all my projects:
 
 |Name|Description|
 |----|-----------|
-|[AgriCore Organization](https://github.com/AgriCore-s-Mods)|Organization used to store and share mods|
-|[AgriCore Mod](https://github.com/AgriCore-s-Mods/AgriCore)|Offers an advanced API to be able to add certain mechanics easily|
-|[Copy Code](https://github.com/AgriCore-s-Mods/CopyCodePlugin-TFWR)|Allows to easy copy the code from a window from Discord|
+|[TheModderWasReplaced Organization](https://github.com/TheModderWasReplaced)|Organization used to store and share mods|
+|[AgriCore Mod](https://github.com/TheModderWasReplaced/AgriCore)|Offers an advanced API to be able to add certain mechanics easily|
+|[Copy Code](https://github.com/TheModderWasReplaced/CopyCodePlugin-TFWR)|Allows to easy copy the code from a window from Discord|
 
 ### :video_game: Games :trophy:
 |Name|Description|
