@@ -3,7 +3,7 @@
   - [BTD6](#monkey_face-bloons-tower-defense-6-balloon)
   - [Lethal Company](#ship-lethal-company-money_with_wings) 
   - [The Farmer Was Replaced](#herb-the-farmer-was-replaced-satellite)
-  - [Minecraft](#joystick-minecraft-game_dice)
+  - [Minecraft](#joystick-minecraft-game_die)
   - [Games](#video-game-games-trophy)
   - [School](#school-school-paperclip)
 - [Accounts](#accounts)
