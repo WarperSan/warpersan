@@ -3,6 +3,7 @@
   - [BTD6](#monkey_face-bloons-tower-defense-6-balloon)
   - [Lethal Company](#ship-lethal-company-money_with_wings) 
   - [The Farmer Was Replaced](#herb-the-farmer-was-replaced-satellite)
+  - [Minecraft](#joystick-minecraft-game_dice)
   - [Games](#video-game-games-trophy)
   - [School](#school-school-paperclip)
 - [Accounts](#accounts)
@@ -40,7 +41,14 @@ Here is a tour of all my projects:
 |[AgriCore Mod](https://github.com/TheModderWasReplaced/AgriCore)|Offers an advanced API to be able to add certain mechanics easily|
 |[Copy Code](https://github.com/TheModderWasReplaced/CopyCodePlugin-TFWR)|Allows to easy copy the code from a window from Discord|
 
+### :joystick: Minecraft :game_die:
+
+|Name|Description|
+|----|-----------|
+|[Propulsion Cannon](https://github.com/WarperSanPlus/warper-mod)|Adds a propulsion cannon to the game|
+
 ### :video_game: Games :trophy:
+
 |Name|Description|
 |----|-----------|
 |[Shadow Spire](https://github.com/WarperSan/Shadow-Spire)|Small tile-based RogueLike made in Unity|
