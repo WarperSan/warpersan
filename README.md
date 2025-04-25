@@ -4,7 +4,7 @@
   - [Lethal Company](#ship-lethal-company-money_with_wings) 
   - [The Farmer Was Replaced](#herb-the-farmer-was-replaced-satellite)
   - [Minecraft](#joystick-minecraft-game_die)
-  - [Games](#video-game-games-trophy)
+  - [Games](#video_game-games-trophy)
   - [School](#school-school-paperclip)
 - [Accounts](#accounts)
 
