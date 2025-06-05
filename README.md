@@ -32,6 +32,7 @@ Here is a tour of all my projects:
 |----|-----------|
 |[Ship Inventory](https://github.com/WarperSan/ShipInventory)|Adds a furniture to more efficiently store scraps in the ship|
 |[Lethal Bingo](https://github.com/WarperSan/LethalBingo)|Adds an implementation of *BingoSync* inside the game|
+|[Lethal Museum](https://github.com/WarperSan/LethalMuseum)|Adds an implementation of *BingoSync* inside the game|
 
 ### :herb: The Farmer Was Replaced :satellite:
 
