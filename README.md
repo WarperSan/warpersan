@@ -1,68 +1,36 @@
-## Table of Contents
-- [Projects](#projects)
-  - [BTD6](#monkey_face-bloons-tower-defense-6-balloon)
-  - [Lethal Company](#ship-lethal-company-money_with_wings) 
-  - [The Farmer Was Replaced](#herb-the-farmer-was-replaced-satellite)
-  - [Minecraft](#joystick-minecraft-game_die)
-  - [Games](#video_game-games-trophy)
-  - [School](#school-school-paperclip)
-- [Accounts](#accounts)
+<h1 align="left">Hey 👋 I’m WarperSan</h1>
 
-## Projects
-Here is a tour of all my projects:
+<p align="left">I'm a back-end and game developer, from Canada.</p>
 
-### :monkey_face: Bloons Tower Defense 6 :balloon:
+<h2 align="left">About me</h2>
 
-|Name|Description|
-|----|-----------|
-|[Balanced Random Rounds](https://github.com/WarperSan/BTD6-Mods/tree/master/Balanced%20Random%20Rounds)|Randomizes the rounds in a balanced way|
-|[Unbalanced Random Rounds](https://github.com/WarperSan/BTD6-Mods/tree/master/Unbalanced%20Random%20Rounds)|Randomizes the rounds in an unbalanced way|
-|[Monkey Sub Paragon](https://github.com/WarperSan/BTD6-Mods/tree/master/MonkeySub%20Paragon)|Adds a paragon to the Monkey Submarine unit|
-|[Village Paragon](https://github.com/WarperSan/BTD6-Mods/tree/master/VillageParagon)|Adds a paragon to the Monkey Village unit|
-|[Progressively Harder](https://github.com/WarperSan/Progressively-Harder)|Progressively makes the game harder and harder by limiting the available units and upgrades|
-|[Boss Pack](https://github.com/WarperSan/BossPack)|Adds multiple custom bosses to the game|
-|[Boss Integration](https://github.com/WarperSan/BossIntegration)|Adds an API to allow any other mod to add bosses without worrying about the implementation itself|
-|[Boss Pack Reborn](https://github.com/WarperSan/BossPackReborn)|Updated *Boss Pack* to use the new library|
-|[Jewels](https://github.com/WarperSan/Jewels-BTD6)|Adds a basic version of *Jewel*|
-|[BTD Adventure](https://github.com/WarperSan/BTD-Adventure)|Recreates the game *Rogue Adventure* inside the game with custom APIs and game logic|
+<p align="left">
+  :bug: Creating bugs since 2019<br>
+  :cupid: Love creating tools and libraries<br>
+  :wrench: I build libraries, games, and tools that are clean, reusable, and fun<br>
+  :question: Fun fact: I'm known to redo things from scratch<br>
+</p>
 
-### :ship: Lethal Company :money_with_wings:
+<h2 align="left">Languages & Tools</h2>
 
-|Name|Description|
-|----|-----------|
-|[Ship Inventory](https://github.com/WarperSan/ShipInventory)|Adds a furniture to more efficiently store scraps in the ship|
-|[Lethal Bingo](https://github.com/WarperSan/LethalBingo)|Adds an implementation of *BingoSync* inside the game|
-|[Lethal Museum](https://github.com/WarperSan/LethalMuseum)|Adds an implementation of *BingoSync* inside the game|
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black)
+![Rider](https://img.shields.io/badge/-Rider-FE0966?logo=rider&logoColor=white)
 
-### :herb: The Farmer Was Replaced :satellite:
+<h2 align="left">My Stats</h2>
 
-|Name|Description|
-|----|-----------|
-|[TheModderWasReplaced Organization](https://github.com/TheModderWasReplaced)|Organization used to store and share mods|
-|[AgriCore Mod](https://github.com/TheModderWasReplaced/AgriCore)|Offers an advanced API to be able to add certain mechanics easily|
-|[Copy Code](https://github.com/TheModderWasReplaced/CopyCodePlugin-TFWR)|Allows to easy copy the code from a window from Discord|
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WarperSan&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarperSan&layout=compact&theme=nord)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WarperSan&theme=nord)
+  
 
-### :joystick: Minecraft :game_die:
+<h2 align="left">Contact me</h2>
 
-|Name|Description|
-|----|-----------|
-|[Propulsion Cannon](https://github.com/WarperSanPlus/warper-mod)|Adds a propulsion cannon to the game|
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauthier-samuel)
+[![Twitter](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/457981279485427724)
 
-### :video_game: Games :trophy:
-
-|Name|Description|
-|----|-----------|
-|[Shadow Spire](https://github.com/WarperSan/Shadow-Spire)|Small tile-based RogueLike made in Unity|
-|[Boulder Dash](https://github.com/WarperSanPlus/Boulder-Dash)|Small copy of the game Boulder Dash|
-|[Procedural Snake](https://github.com/WarperSanPlus/Snake-Procedural)|Snake game with procedural generation of the walls|
-|[Touhou](https://github.com/WarperSanPlus/TP3-SpaceShooter)|Space shooter with a Touhou theme|
-
-### :school: School :paperclip:
-|Name|Description|
-|----|-----------|
-|[Zelda Project](https://github.com/WarperSanPlus/Zelda-Project)|Made a small zelda clone|
-
-## Accounts
-You can find me here:
-
-- [WarperSanPlus](https://github.com/WarperSanPlus?tab=repositories)
+<p align="center" style="font-style:italic; color:#5865F2;">“A library should feel like a secret passage — simple outside, infinite inside.”</p>
