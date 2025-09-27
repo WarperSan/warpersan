@@ -30,7 +30,6 @@
 
 <h2 align="left">Contact me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauthier-samuel)
 [![Twitter](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/457981279485427724)
 
 <p align="center" style="font-style:italic; color:#5865F2;">“A library should feel like a secret passage — simple outside, infinite inside.”</p>
