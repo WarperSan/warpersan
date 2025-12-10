@@ -21,13 +21,6 @@
 ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black)
 ![Rider](https://img.shields.io/badge/-Rider-FE0966?logo=rider&logoColor=white)
 
-<h2 align="left">My Stats</h2>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WarperSan&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarperSan&layout=compact&theme=nord)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WarperSan&theme=nord)
-  
-
 <h2 align="left">Contact me</h2>
 
 [![Twitter](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/457981279485427724)
